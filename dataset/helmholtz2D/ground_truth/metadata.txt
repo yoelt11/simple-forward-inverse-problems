@@ -1,0 +1,28 @@
+Helmholtz 2D Dataset Metadata
+========================================
+
+Number of samples: 200
+Solver grid size (ny, nx): (256, 256)
+Storage grid size (ny, nx): (256, 256)
+Domain x: (-1, 1)
+Domain y: (-1, 1)
+
+PDE Parameters:
+  a1: [0.550, 5.000]
+  a2: [0.539, 4.985]
+  k: [0.539, 4.993]
+
+Solver grid shapes:
+  X grid shape: (256, 256)
+  Y grid shape: (256, 256)
+Storage grid shapes:
+  X grid storage shape: (256, 256)
+  Y grid storage shape: (256, 256)
+
+Timing Information:
+--------------------
+Total generation time: 0.91 seconds
+Total generation time: 0.02 minutes
+Average time per solution: 0.005 seconds
+Valid solutions: 200
+Failed solutions: 0
